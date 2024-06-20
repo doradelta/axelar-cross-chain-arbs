@@ -63,7 +63,7 @@ What is missing:
 - Arb does not take into account gas fees.
 - Tx receipt and check real profit is missing
 - I have tested the program in many ways and informally, I have not written the cover tests.
-- Disclaimer: This program is far from being perfect, I have done what I could with the time I have managed to get, I don't have more time this week
+- Disclaimer: This program is far from being perfect
 
 
 
