@@ -1,0 +1,22 @@
+[
+    {
+        "id": 56,
+        "name": "BSC",
+        "url": "wss://burned-capable-sound.bsc.quiknode.pro/4e27f226822cc4b92ab86bf66adc23c52ffff8e7/",
+        "tokens": [
+            ["WETH", "0x2170ed0880ac9a755fd29b2688956bd959f933f8", 18, 1000000000000],
+            ["USDC", "0x8AC76a51cc950d9822D68b83fE1Ad97B32Cd580d", 18, 3000000000000000]
+        ],
+        "pairs": []
+    },
+    {
+        "id": 137,
+        "name": "Polygon",
+        "url": "wss://fittest-orbital-county.matic.quiknode.pro/e9c3dc6d60938799511f56ef6ebe0d8743e41782/",
+        "tokens": [
+            ["WETH", "0x7ceB23fD6bC0adD59E62ac25578270cFf1b9f619", 18, 1000000000000], 
+            ["USDC", "0x3c499c542cEF5E3811e1192ce70d8cC03d5c3359", 6, 3000]
+        ],
+        "pairs": []
+    }
+]
